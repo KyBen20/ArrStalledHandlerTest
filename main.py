@@ -1,5 +1,5 @@
 import os
-import sqlite3
+import sqlite
 import requests
 from datetime import datetime, timezone
 from dotenv import load_dotenv
